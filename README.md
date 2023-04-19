@@ -1,5 +1,5 @@
-# Auto-Llama-cpp: An Autonomous Llama Experiment
-This is a fork of Auto-GPT with added support for locally running llama models through llama.cpp.
+# Auto-Fastchat: An Autonomous ChatGPT Experiment
+This is a fork of Auto-GPT with added support for locally running FastChat models.
 This is more of a proof of concept. It's sloooow and most of the time you're fighting with the too small context window size or the models answer is not valid JSON. But sometimes it works and then it's really quite magical what even such a small model comes up with. 
 But obviously don't expect GPT-4 brilliance here.
 
